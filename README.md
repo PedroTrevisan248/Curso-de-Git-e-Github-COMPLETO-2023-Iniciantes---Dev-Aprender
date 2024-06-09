@@ -1,1 +1,1 @@
-Bem-vindo ao repositório do Curso de Git e GitHub do DevAprender! Este repositório contém todos os arquivos e materiais abordados durante o curso, proporcionando um recurso completo para seu aprendizado sobre controle de versão e colaboração em projetos de software.
+Bem-vindo ao repositório do Curso de Git e GitHub do DevAprender, este repositório contém todos os arquivos e materiais abordados durante o curso, proporcionando um recurso completo para seu aprendizado sobre controle de versão e colaboração em projetos de software.
